@@ -49,3 +49,10 @@ This project demonstrates how lane detection can be achieved using computer visi
 ## References
 1. OpenCV Documentation: [Link](https://opencv.org/)
 2. Hough Transform for Line Detection: [Link](https://en.wikipedia.org/wiki/Hough_transform)
+
+## Clone Repository
+
+To clone this repository to your local machine, run the following command:
+
+```bash
+git clone https://github.com/addy-vi/lane-detection.git
