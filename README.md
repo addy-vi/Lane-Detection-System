@@ -55,4 +55,4 @@ This project demonstrates how lane detection can be achieved using computer visi
 To clone this repository to your local machine, run the following command:
 
 ```bash
-git clone https://github.com/addy-vi/lane-detection.git
+git clone https://github.com/adnan-saif/Lane-Detection-System.git
